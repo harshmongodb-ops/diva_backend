@@ -58,7 +58,7 @@ export const addUSer = async(req,res) => {
         }
 
 
-        res.status(200).json({"message":"data created successfully",data:saveUSer})
+        res.status(200).json({"message":"data created successfully jkhfskjdfh",data:saveUSer})
 
     }catch(error){
 
